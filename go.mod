@@ -1,4 +1,4 @@
-module github.com/soulgarden/sendpulse-sdk-go/v5
+module github.com/soulgarden/sendpulse-sdk-go
 
 go 1.14
 
