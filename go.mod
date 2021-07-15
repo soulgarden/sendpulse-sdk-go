@@ -1,4 +1,4 @@
-module gopkg.in/soulgarden/sendpulse-sdk-go.v5
+module soulgarden/sendpulse-sdk-go
 
 go 1.14
 
